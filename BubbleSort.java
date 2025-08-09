@@ -1,5 +1,6 @@
-package Algorithms;
-
+/*
+* BubbleSort Java implementation for learning purpose. 
+*/
 public class BubbleSort {
 	
 	public static void main(String[]args) {
@@ -24,3 +25,4 @@ public class BubbleSort {
 }
 	
 	
+
